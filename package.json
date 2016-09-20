@@ -1,0 +1,32 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.2.5",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "superagent": "2.1.0",
+    "cheerio": "0.22.0",
+    "eventproxy": "0.3.5",
+    "url": "0.10.3",
+    "ejs": "2.5.2",
+    "mustache": "2.2.1",
+    "consolidate": "0.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qq806350554/nodetest"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
